@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
+
+# OpenAI GPT Bot
+User-agent: GPTBot
+Allow: /
+
+# ChatGPT User
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic Claude Bot
+User-agent: Claude-Web
+Allow: /
+
+# Common Crawl Bot
+User-agent: CCBot
+Allow: /
+
+# Google Extended (Bard/Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity Bot
+User-agent: PerplexityBot
+Allow: /
+
