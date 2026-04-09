@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap:https://yak-chew-vs-rawhide-which-is-better.vercel.app/sitemap.xml
+Sitemap:https://yakdogchew.github.io/yak-chews-vs-rawhide-which-is-better/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
